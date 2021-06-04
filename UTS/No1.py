@@ -113,7 +113,7 @@ class Ui_Form(object):
         self.listWidget = QtWidgets.QListWidget(Form)
         self.listWidget.setGeometry(QtCore.QRect(60, 80, 471, 311))
         self.listWidget.setObjectName("listWidget")
-        self.pushButton_3.clicked.connect(self.listWidget.clear
+        self.pushButton_3.clicked.connect(self.listWidget.clear)
         self.retranslateUi(Form)
         QtCore.QMetaObject.connectSlotsByName(Form)
 
