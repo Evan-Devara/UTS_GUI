@@ -15,16 +15,14 @@ S1SE03B
 
 ![image](https://user-images.githubusercontent.com/72756374/120763531-829ff800-c541-11eb-97a0-66cbcbd4fe0e.png)
 
-**Ketika Data di Clear**
-
-data yang di "clear" akan hilang semua
+**Ketika Data di Clear** (data yang di "clear" akan hilang semua)
 ![image](https://user-images.githubusercontent.com/72756374/120763812-c8f55700-c541-11eb-954c-b2d6cd9acbc6.png)
 
-**Ketika Data di Hapus**
-
-data yang dipilih akan dihapus
+**Ketika Data di Hapus** (data yang dipilih akan dihapus)
 ![image](https://user-images.githubusercontent.com/72756374/120763928-e7f3e900-c541-11eb-91c2-6da15a9d692e.png)
 
 
-
 ## Nomor 2
+![image](https://user-images.githubusercontent.com/72756374/120764178-1d98d200-c542-11eb-8cb8-efe83c3ad677.png)
+
+Terdapat Error karena indentasi yang tidak benar, dapat dibetulkan hanya dengan membetulkan posisi indentasi.
